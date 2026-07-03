@@ -1,0 +1,2 @@
+fitness,duration,fen,hero_uci,sf_cp_score,solutions
+13800.00,307m 25s,7k/8/3R1P1N/n7/2p1Kb1Q/8/1B5q/7r w - - 0 1,f6f7,0,Defense:h8h7 -> Mate:f7f8n ONLY Knight (mate_in_1) | Defense:f4e5 -> Mate:f7f8q ONLY Queen (mate_in_2) | Defense:c4c3 -> Mate:f7f8r ONLY Rook (mate_in_2)

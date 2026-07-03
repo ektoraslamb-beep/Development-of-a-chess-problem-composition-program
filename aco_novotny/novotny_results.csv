@@ -1,0 +1,22 @@
+score,duration,fen,key_move,type,variations
+5.0,0m 6s,8/8/2R3Q1/K7/8/5rbk/5QN1/3B4 w - - 0 1,g2-f4,PERFECT,f3f4:f2g3 | g3f4:g6h5
+5.0,3m 42s,8/5K2/8/4b3/4N1r1/8/2Q2R2/3Q2Nk w - - 0 1,e4-g3,PERFECT,g4g3:f2h2 | e5g3:g1e2
+5.0,4m 56s,2K4k/2RQ4/8/8/6rN/3b4/8/8 w - - 0 1,h4-g6,PERFECT,g4g6:d7h7 | d3g6:d7g7
+5.0,6m 31s,8/8/8/4b3/4N1rN/8/2QQ4/5K1k w - - 0 1,e4-g3,PERFECT,g4g3:d2h2 | e5g3:d2g2
+5.0,6m 41s,8/8/8/8/4N1Nk/1r6/2Q1B1K1/2bQ4 w - - 0 1,g4-e3,PERFECT,b3e3:d1d8 | c1e3:d1h1
+5.0,6m 41s,k7/3r4/1Q2B3/1R1Nb3/2R5/K7/8/8 w - - 0 1,d5-c7,PERFECT,d7c7:b6b8 | e5c7:b6a6
+5.0,8m 27s,k7/3r4/KQ2N3/1R1Nb3/2R5/8/8/8 w - - 0 1,e6-c7,PERFECT,d7c7:b6b8 | e5c7:b6a7
+5.0,9m 13s,k5K1/3r4/1Q2N3/1R1Nb3/8/8/8/8 w - - 0 1,d5-c7,PERFECT,d7c7:b6b8 | e5c7:b6a6
+5.0,13m 8s,k1K5/2RQ4/8/2bN4/N1Q5/1r6/8/8 w - - 0 1,a4-b6,PERFECT,b3b6:c7a7 | c5b6:d7c6
+5.0,13m 40s,7k/2R1Q3/4N3/3B4/6rN/3b4/8/3K4 w - - 0 1,h4-g6,PERFECT,g4g6:e7h7 | d3g6:e7g7
+5.0,14m 1s,7k/3QQ3/4N3/3K4/2Q3rN/3b4/8/8 w - - 0 1,h4-g6,PERFECT,g4g6:e7h7 | d3g6:e7g7
+5.0,14m 10s,1K5k/3QQ3/8/8/2R3rN/3b4/8/8 w - - 0 1,h4-g6,PERFECT,g4g6:e7h7 | d3g6:e7g7
+5.0,14m 11s,k7/3r4/1Q6/1R1Nb3/2Q5/8/8/4K3 w - - 0 1,d5-c7,PERFECT,d7c7:b6b8 | e5c7:b6a6
+5.0,2m 33s,6Q1/3Rb2N/8/7k/8/5r2/7K/2Q2Q2 w - - 0 1,h7-f6,PERFECT,f3f6:f1h3 | e7f6:d7h7
+5.0,3m 33s,6Q1/3Rb2N/8/7k/8/5r2/6K1/2Q5 w - - 0 1,h7-f6,PERFECT,f3f6:c1g5 | e7f6:d7h7
+5.0,4m 26s,6Q1/3RN3/6b1/8/7k/5r2/7K/2Q2Q2 w - - 0 1,e7-f5,PERFECT,f3f5:f1h3 | g6f5:c1g5
+5.0,6m 34s,4K1Q1/3Rb2N/8/7k/8/5r2/8/2Q2Q2 w - - 0 1,h7-f6,PERFECT,f3f6:f1h1 | e7f6:d7h7
+5.0,6m 34s,5R2/3R4/8/2r5/N3k2K/8/3b4/4BQ2 w - - 0 1,a4-c3,PERFECT,c5c3:f8e8 | d2c3:f1f4
+5.0,8m 7s,1K6/1R1Rb3/2R5/7r/k7/3N4/8/2Q5 w - - 0 1,d3-c5,PERFECT,h5c5:c1a1 | e7c5:c6a6
+5.0,9m 23s,3K2Q1/3R4/8/2r5/N3k3/8/3b4/2Q2Q2 w - - 0 1,a4-c3,PERFECT,c5c3:g8e6 | d2c3:c1f4
+5.0,9m 46s,K5Q1/3Rb2N/8/7k/8/5r2/8/2Q5 w - - 0 1,h7-f6,PERFECT,f3f6:c1g5 | e7f6:d7h7
